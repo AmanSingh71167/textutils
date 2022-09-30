@@ -1,0 +1,28 @@
+.button {
+  background-color: #8e4aa2; /* Green */
+  border-radius: 10px;
+  /* text-decoration: solid; */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: rgb(232, 222, 234); 
+  color: black; 
+  border: 2px solid #912bb1;
+  /* border-radius: 5px; */
+}
+
+/* .button1:hover {
+  background-color: #8e4aa2;
+  color: rgb(245, 239, 239);
+  text-decoration: solid ;
+} */
